@@ -43,7 +43,7 @@ Para fazer o deploy desse projeto:
 
 2.2 Acesse a pasta da api
 ```bash
-  cd diretorio-da-api
+  cd to-do-list-api
 ```
 
 2.3 Instale as dependências do Laravel via composer
@@ -68,7 +68,7 @@ As rotas da api estão disponíveis no endereço http://localhost:8000
 3. FRONTEND
 3.1 Acesse a pasta do frontend
 ```bash
-  cd diretorio-do-front
+  cd to-do-list-app
 ```
 
 3.2 Instale as dependências do VueJS
