@@ -38,7 +38,7 @@ Para fazer o deploy desse projeto:
 2. API
 2.1 Clone o repositório
 ```bash
-  git clone https://github.com/motive-mobi/to-do-list.git
+  git clone git@github.com:motive-mobi/to-do-list.git
 ```
 
 2.2 Acesse a pasta da api
